@@ -1,0 +1,10 @@
+<div class="card  bg-base-100 shadow-xl image-full my-6 mx-6 lg:mx-6 ">
+                <figure><img src="images/4.png" alt="Shoes" /></figure>
+                <div class="card-body">
+                  <h2 class="card-title">Shoes!</h2>
+                  <p>If a dog chews shoes whose shoes does he choose?</p>
+                  <div class="card-actions ">
+                    <button class="btn btn-wide wide bg-[#FF4240] text-white">Buy Now</button>
+                  </div>
+                </div>
+              </div>
