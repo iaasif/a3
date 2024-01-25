@@ -8,3 +8,16 @@ module.exports = {
     },
     plugins: [],
 }
+
+
+module.exports = {
+    theme: {
+        extend: {
+            colors: {
+                'regal-blue': '#243c5a',
+                'bgCall': '#bced6d'
+            },
+        }
+    }
+}
+
